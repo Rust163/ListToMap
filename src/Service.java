@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class Service {
     private static final Random RANDOM = new Random();
     private final Map<String, List<Integer>> listMap = new HashMap<>();
